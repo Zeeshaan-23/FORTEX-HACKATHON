@@ -15,6 +15,15 @@ Backend API:
 GitHub Repository:
 👉 https://github.com/Bhaumik1904/FORTEX-HACKATHON
 
+SAMPLE DATA FOR LOGIN:
+Student Portal : 
+EMAIL - bhaumik_hinunia@srmap.edu.in
+Password - 123456
+
+Admin Portal :
+Email - admin@srmap.edu.in
+Password - admin123
+
 🧠 Problem Statement
 
 In many universities:
